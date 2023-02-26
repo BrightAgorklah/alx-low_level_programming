@@ -28,7 +28,7 @@ int main(void)
         largest = c;
         }
 
-        /*largest = largest_number(a, b, c);*/
+        largest = largest_number(a, b, c);
 
         printf("%d is the largest number\n", largest);
 
